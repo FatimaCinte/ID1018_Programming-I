@@ -1,5 +1,5 @@
 All of the course assignments are written in Java and compiled by running the main method of each program.
-The assignments cover the fundamentals of programming, such as: 
+The assignments cover the basics and fundamentals of programming, such as: 
 
 - Basic syntax and semantics of a high level language 
 - Variables, data types, expressions and assignment 
